@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="FilmGPT", layout="wide")
 
-st.title("🎥 FilmGPT: Query Game Moments")
+st.title("🎥 ShiftPoint: Query Game Moments")
 
 st.write("Ask about momentum shifts, scoring droughts, or player performance across any tagged game.")
 
